@@ -1,0 +1,16 @@
+{
+    "name": "CHJumpSeat",
+    "alias": "chjumpseat",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\CHJumpSeat\\Providers\\AppServiceProvider",
+        "Modules\\CHJumpSeat\\Providers\\EventServiceProvider",
+        "Modules\\CHJumpSeat\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
